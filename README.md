@@ -123,7 +123,7 @@ This repository contains curated free resources and a roadmap to learn Machine L
 - [Whisper](https://github.com/openai/whisper) 
 
 ## AI/ML Research Blogs
-- [OpenAI Blog]()
+- [OpenAI Blog](https://openai.com/news/)
 - [Google DeepMind](https://deepmind.google/discover/blog/)
 - [Google Research](https://research.google/blog/)
 - [Apple ML Research](https://machinelearning.apple.com/)
