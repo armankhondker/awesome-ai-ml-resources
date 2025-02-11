@@ -1,5 +1,5 @@
-# Awesome AI/ML Resources
-This repository contains free resources and a roadmap to learn Machine Learning and Artifical Intelligence in 2025.
+# Awesome AI/ML Resources & Roadmap
+This repository contains free resources and a roadmap to learn Machine Learning and Artifical Intelligence.
 
 ## 📚 Table of Contents
 - [AI/ML Key Concepts](#-aiml-key-concepts)
