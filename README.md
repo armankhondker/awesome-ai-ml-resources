@@ -17,7 +17,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Communities](#-️-aiml-communities)
 - [YouTube Channels](#-youtube-channels)
 - [Newsletters](#-newsletters)
-- 
+
 ## 📌 AI/ML Key Concepts
 - [Supervised Learning](https://cloud.google.com/discover/what-is-supervised-learning?hl=en)
 - [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning?hl=en#what-is-unsupervised-learning)
