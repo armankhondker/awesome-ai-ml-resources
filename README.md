@@ -1,4 +1,4 @@
-# Awesome AI/ML Resources & Roadmap
+# Awesome AI/ML Resources 
 This repository contains free resources and a roadmap to learn Machine Learning and Artifical Intelligence.
 
 ## 📚 Table of Contents
