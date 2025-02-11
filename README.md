@@ -179,6 +179,15 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Chip Huyen MLOps Discord](https://discord.com/invite/dzh728c5t3)
 - [Hugging Face Discord](https://discord.com/invite/hugging-face-879548962464493619)
 
+## 📃 Must Read Papers
+- [Attention Is All You Need (Google)](https://arxiv.org/pdf/1706.03762)
+- [Monolith: Real Time Recommendation System (TikTok/ByteDance)](https://arxiv.org/pdf/2209.07663)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+- [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/pdf/1611.03530)
+- [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
+- [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
+- [Open AI Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
 ## 📺 Youtube Channels
 - [Stanford Online](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
@@ -189,12 +198,3 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 ## 📩 Newsletters
 - [Rundown AI](https://www.therundown.ai/)
 - [AI with Arman](https://armankhondker.substack.com/)
-
-## 📃 Must Read Papers
-- [Attention Is All You Need (Google)](https://arxiv.org/pdf/1706.03762)
-- [Monolith: Real Time Recommendation System (TikTok/ByteDance)](https://arxiv.org/pdf/2209.07663)
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
-- [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/pdf/1611.03530)
-- [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
-- [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
-- [Open AI Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
