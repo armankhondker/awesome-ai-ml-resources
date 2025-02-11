@@ -173,7 +173,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Rundown AI](https://www.therundown.ai/)
 - [AI with Arman](https://armankhondker.substack.com/)
 
-- ## 📃 Must Read Papers
+## 📃 Must Read Papers
 - [Attention Is All You Need (Google)](https://arxiv.org/pdf/1706.03762)
 - [Monolith: Real Time Recommendation System (TikTok/ByteDance)](https://arxiv.org/pdf/2209.07663)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
