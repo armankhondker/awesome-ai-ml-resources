@@ -1,5 +1,5 @@
 # Awesome AI/ML Resources
-This repository contains free resources and a roadmap to learn Machine Learning and Artifical Intelligence. 
+This repository contains free resources and a roadmap to learn Machine Learning and Artifical Intelligence in 2025.
  
 ## 📌 AI/ML Key Concepts
 - [Supervised Learning](https://cloud.google.com/discover/what-is-supervised-learning?hl=en)
