@@ -104,7 +104,7 @@ This repository contains curated free resources and a roadmap to learn Machine L
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
 - [Stanford AI and Machine Learning Certificate](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 
-## 📚 Books
+## 📕 Books
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [AI Engineering: Building Applications with Foundational Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
