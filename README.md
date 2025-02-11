@@ -1,6 +1,23 @@
 # Awesome AI/ML Resources
 This repository contains free resources and a roadmap to learn Machine Learning and Artifical Intelligence in 2025.
- 
+
+## 📚 Table of Contents
+- [AI/ML Key Concepts](#-aiml-key-concepts)
+- [AI/ML Building Blocks](#-aiml-building-blocks)
+- [AI/ML Roles](#-aiml-roles)
+- [AI/ML Roadmap](#-aiml-roadmap)
+- [Courses](#-courses)
+- [Certifications](#-certifications)
+- [Books](#-books)
+- [Tools & Frameworks](#-️-tools--frameworks)
+- [AI/ML Research Blogs](#aiml-research-blogs)
+- [AI/ML Applied Blogs](#aiml-applied-blogs)
+- [AI/ML Problems](#aiml-problems)
+- [Communities](#-️-aiml-communities)
+- [YouTube Channels](#-youtube-channels)
+- [Newsletters](#-newsletters)
+- [Must-Read Papers](#-must-read-papers)
+
 ## 📌 AI/ML Key Concepts
 - [Supervised Learning](https://cloud.google.com/discover/what-is-supervised-learning?hl=en)
 - [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning?hl=en#what-is-unsupervised-learning)
