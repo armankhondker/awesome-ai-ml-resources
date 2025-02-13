@@ -18,6 +18,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Self-Supervised Learning](https://lilianweng.github.io/posts/2021-05-31-self-supervised-learning/)
 - [Generative Adversarial Network](https://github.com/Someshdiwan/Generative-Adversarial-Network-)
 - [implementations of ANNs](https://github.com/Someshdiwan/Artificial-Neural-Networks-ANNs/tree/main)
+- [AND, OR, XOR Logic Gates](https://www.enjoyalgorithms.com/blog/design-perceptron-to-learn-and-or-xor-gates)
 
 ## 🛠️ AI/ML Building Blocks
 - [Linear Algebra for Machine Learning](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
@@ -65,7 +66,6 @@ This repository contains free resources and a roadmap to learn Machine Learning 
    - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) 
    - [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
    - [Read Hundred-Page ML Book](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
-   - [Learn AI](https://www.lonelyoctopus.com/)
 
 4. Building Practical Experience   
    - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -91,7 +91,6 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 8. Prepare for AI/ML Job Interviews
    - [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
    - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-   - [AND, OR, XOR Logic Gates Blog](https://www.enjoyalgorithms.com/blog/design-perceptron-to-learn-and-or-xor-gates)
 
 ## 📚 Courses
 - [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
