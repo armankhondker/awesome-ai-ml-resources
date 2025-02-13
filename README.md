@@ -62,7 +62,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
    - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) 
    - [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
    - [Read Hundred-Page ML Book](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
-   - [3D visualization and walkthrough of the LLM algorithm that backs OpenAI's ChatGPT](https://bbycroft.net/llm) 
+   - [3D visualization of ChatGPT](https://bbycroft.net/llm) 
 
 4. Building Practical Experience   
    - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
