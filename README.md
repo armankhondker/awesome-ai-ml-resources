@@ -1,5 +1,5 @@
 # Awesome AI/ML Resources 
-This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025. 
+This repository contains free resources and a roadmap to learn Machine Learning and Artifical Intelligence in 2025. 
 
 ## 📌 AI/ML Key Concepts
 - [Supervised Learning](https://cloud.google.com/discover/what-is-supervised-learning?hl=en)
@@ -175,7 +175,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 
 ## 📃 Must Read Papers
 - [Attention Is All You Need (Google)](https://arxiv.org/pdf/1706.03762)
-- [DeepSeek R1: Incentivizing Reasoning Capability in LLMs](https://arxiv.org/pdf/2501.12948) 
+- [DeeoSeek R1: Incentivizing Reasoning Capability in LLMs](https://arxiv.org/pdf/2501.12948) 
 - [Monolith: Real Time Recommendation System (TikTok/ByteDance)](https://arxiv.org/pdf/2209.07663)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/pdf/1611.03530)
