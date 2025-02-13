@@ -171,7 +171,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 
 ## 📩 Newsletters
 - [Rundown AI](https://www.therundown.ai/)
-- [AI/ML Engineering with Arman](https://armankhondker.substack.com/)
+- [The AI/ML Engineer](https://aimlengineer.io)
 
 ## 📃 Must Read Papers
 - [Attention Is All You Need (Google)](https://arxiv.org/pdf/1706.03762)
