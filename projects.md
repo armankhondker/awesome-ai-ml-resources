@@ -4,6 +4,8 @@
 
 This guide provides a structured approach to building your AI/ML project portfolio, with projects organized by difficulty level, estimated completion time, and learning objectives.
 
+> 💡 **Project Selection Tip**: While projects are organized by difficulty, feel free to tackle them in any order that aligns with your interests and current learning focus. The difficulty levels are suggestions rather than strict requirements.
+
 ## 🌱 Beginner Projects
 *Estimated time: 2-4 weeks per project*
 

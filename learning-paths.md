@@ -214,8 +214,9 @@ This guide provides a structured, time-bound approach to learning AI/ML with cle
 5. Continuous improvement
 
 Remember:
-- Follow the time splits strictly
+- Use time splits as guidelines, adjust as needed
 - Focus on understanding fundamentals
 - Build practical projects
 - Engage with the community
-- Document your journey 
+- Document your journey
+- Adapt the path to your needs and goals 
