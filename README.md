@@ -196,14 +196,14 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 
 This repository offers two complementary approaches to learning AI/ML:
 
-### 1. Free Exploration (Original Format)
+### 1. Free Exploration
 Browse our comprehensive collection of resources, tools, and materials at your own pace. Perfect for:
 - Self-directed learners
 - Those with specific learning goals
 - Experienced practitioners looking for references
 - Quick access to quality resources
 
-### 2. Structured Learning (New Addition)
+### 2. Structured Learning
 Follow our optional structured guides for a more organized approach:
 - [Learning Paths](learning-paths.md) - Suggested progression with time estimates
 - [Progress Tracking](progress-tracking.md) - Optional templates to monitor your journey
