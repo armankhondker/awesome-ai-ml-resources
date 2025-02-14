@@ -1,6 +1,15 @@
 # Awesome AI/ML Resources 
 This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025. 
 
+## 📚 Quick Navigation
+
+- [Learning Paths](learning-paths.md) - Structured, time-bound learning paths
+- [Projects](projects.md) - Comprehensive project portfolio guide
+- [Progress Tracking](progress-tracking.md) - Templates and guidelines for tracking progress
+- [Books](books.md) - Recommended reading materials
+- [Interviews](interviews.md) - Interview preparation resources
+- [Newsletters](newsletters.md) - AI/ML newsletters to follow
+
 ## 📌 AI/ML Key Concepts
 - [Supervised Learning](https://cloud.google.com/discover/what-is-supervised-learning?hl=en)
 - [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning?hl=en#what-is-unsupervised-learning)
@@ -97,7 +106,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ&index=1)
 - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [Natural Language Processing with Deep Learning (Stanford - CS224n)](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&index=1)
-- [Fast.ai’s Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Fast.ai's Practical Deep Learning for Coders](https://course.fast.ai/)
 
 ## 🎓 Certifications
 - [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
@@ -182,3 +191,12 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
 - [Open AI Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
+## 🎯 How to Use This Repository
+
+1. Start with the [Learning Paths](learning-paths.md) to understand the structured approach to learning AI/ML
+2. Use the [Progress Tracking](progress-tracking.md) templates to monitor your journey
+3. Build your portfolio using the [Projects](projects.md) guide
+4. Supplement your learning with recommended [Books](books.md)
+5. Prepare for interviews using [Interviews](interviews.md) resources
+6. Stay updated with [Newsletters](newsletters.md)
