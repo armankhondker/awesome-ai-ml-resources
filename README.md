@@ -182,6 +182,3 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
 - [Open AI Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
-
-## Contributing
-Your open-source contributions to improve this resource are welcome and appreciated! 
