@@ -1,5 +1,7 @@
 # Structured Learning Paths
 
+> 📝 **Note**: This structured learning path is a complementary guide to the comprehensive resources in this repository. Feel free to adapt the schedule, time commitments, and progression to your needs. The original resource collection remains your primary reference for flexible, self-paced learning.
+
 This guide provides a structured, time-bound approach to learning AI/ML with clear progression paths and success metrics.
 
 ## 🎯 Foundation Phase (3-4 months)

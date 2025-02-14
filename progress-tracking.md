@@ -1,5 +1,7 @@
 # AI/ML Learning Progress Tracking
 
+> 📝 **Note**: These tracking templates and assessment tools are flexible resources to support your learning journey. Feel free to adapt them to your specific needs, learning style, and goals. Use what works for you and modify as needed.
+
 This guide provides templates and guidelines for tracking your progress in learning AI/ML.
 
 ## 📊 Skill Assessment Matrix

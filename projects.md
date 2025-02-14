@@ -1,5 +1,7 @@
 # AI/ML Project Portfolio Guide
 
+> 📝 **Note**: This project guide provides structured suggestions with detailed metrics and timelines. These are recommendations based on common learning paths, but feel free to adjust the projects, timelines, and success metrics to match your interests and goals. The key is to build practical experience in areas that interest you most.
+
 This guide provides a structured approach to building your AI/ML project portfolio, with projects organized by difficulty level, estimated completion time, and learning objectives.
 
 ## 🌱 Beginner Projects

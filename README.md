@@ -194,9 +194,19 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 
 ## 🎯 How to Use This Repository
 
-1. Start with the [Learning Paths](learning-paths.md) to understand the structured approach to learning AI/ML
-2. Use the [Progress Tracking](progress-tracking.md) templates to monitor your journey
-3. Build your portfolio using the [Projects](projects.md) guide
-4. Supplement your learning with recommended [Books](books.md)
-5. Prepare for interviews using [Interviews](interviews.md) resources
-6. Stay updated with [Newsletters](newsletters.md)
+This repository offers two complementary approaches to learning AI/ML:
+
+### 1. Free Exploration (Original Format)
+Browse our comprehensive collection of resources, tools, and materials at your own pace. Perfect for:
+- Self-directed learners
+- Those with specific learning goals
+- Experienced practitioners looking for references
+- Quick access to quality resources
+
+### 2. Structured Learning (New Addition)
+Follow our optional structured guides for a more organized approach:
+- [Learning Paths](learning-paths.md) - Suggested progression with time estimates
+- [Progress Tracking](progress-tracking.md) - Optional templates to monitor your journey
+- [Projects](projects.md) - Structured project suggestions with clear objectives
+
+Choose the approach that works best for you, or combine both! The structured guides are designed to complement, not replace, the comprehensive resource collection.
