@@ -5,7 +5,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Supervised Learning](https://medium.com/@kodeinkgp/supervised-learning-a-comprehensive-guide-7032b34d5097)
 - [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning?hl=en#what-is-unsupervised-learning)
 - [Reinforcement Learning](https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is)
-- [Deep Learning](https://www.deeplearning.ai/)
+- [Deep Learning](https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial)
 - [Natural Language Processing (NLP)](https://www.nltk.org/)
 - [Computer Vision](https://www.geeksforgeeks.org/computer-vision/)
 - [Generative adversarial networks (GANs)](https://aws.amazon.com/what-is/gan/)
