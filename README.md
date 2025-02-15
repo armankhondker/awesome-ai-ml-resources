@@ -2,7 +2,7 @@
 This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025. 
 
 ## 📌 AI/ML Key Concepts
-- [Supervised Learning](https://cloud.google.com/discover/what-is-supervised-learning?hl=en)
+- [Supervised Learning](https://medium.com/@kodeinkgp/supervised-learning-a-comprehensive-guide-7032b34d5097)
 - [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning?hl=en#what-is-unsupervised-learning)
 - [Reinforcement Learning](https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is)
 - [Deep Learning](https://www.deeplearning.ai/)
