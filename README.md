@@ -19,7 +19,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 
 ## 🛠️ AI/ML Building Blocks
 - [Linear Algebra for Machine Learning](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
-- [Probability & Statistics](https://web.stanford.edu/class/stats116/syllabus.html)
+- [Probability & Statistics](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 - [Calculus for Optimization](https://www.khanacademy.org/math/multivariable-calculus)
 - [Python for Machine Learning](https://www.coursera.org/learn/ai-python-for-beginners)
 - [Optimization Techniques](https://www.geeksforgeeks.org/optimization-algorithms-in-machine-learning/)
