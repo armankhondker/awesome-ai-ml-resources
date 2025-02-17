@@ -1,5 +1,5 @@
 # Awesome AI/ML Resources 
-This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025. 
+This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence for software engineers.
 
 ## 📌 AI/ML Key Concepts
 - [Supervised Learning](https://medium.com/@kodeinkgp/supervised-learning-a-comprehensive-guide-7032b34d5097)
