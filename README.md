@@ -45,25 +45,25 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Research Scientist](https://www.coursera.org/articles/research-scientist)
 
 ## 🚗 AI/ML Roadmap
-1. Build a Strong Math Foundation
-   - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
-   - [Probability & Statistics](https://web.stanford.edu/class/stats116/syllabus.html)
-   - [Calculus](https://www.khanacademy.org/math/multivariable-calculus)
-
-2. Learn Python and Core Libraries  
+1. Learn Python and Core Libraries  
    - [Intro Python](https://cs50.harvard.edu/python/2022/) 
    - [Advanced Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
    - [NumPy: Numerical computing and arrays](https://numpy.org/devdocs/user/quickstart.html) 
    - [Pandas: Data manipulation and analysis](https://www.w3schools.com/python/pandas/default.asp) 
    - [Matplotlib & Seaborn: Data visualization](https://matplotlib.org/stable/tutorials/index.html) 
-   - [scikit-learn: Implement ML algorithms](https://scikit-learn.org/1.4/tutorial/index.html) 
+   - [scikit-learn: Implement ML algorithms](https://scikit-learn.org/1.4/tutorial/index.html)
+
+2. Build a Strong Math Foundation
+   - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
+   - [Probability & Statistics](https://web.stanford.edu/class/stats116/syllabus.html)
+   - [Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
 3. Learn Machine Learning Fundamentals
    - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) 
    - [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
    - [Read Hundred-Page ML Book](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
 
-4. Building Practical Experience   
+4. Build Practical Experience   
    - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - [Practical Deep Learning for Coders](https://course.fast.ai/)  
    - [Structured Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
@@ -81,7 +81,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
    - [Three levels of ML](https://ml-ops.org/content/three-levels-of-ml-software)
    - [Fullstackdeeplearning](https://fullstackdeeplearning.com/course/2022/)
    
-7. AI Research and Continuous Learning
+7. Read Interesting Research Papers
    - [ArXiv for Research Papers](https://arxiv.org/)
 
 8. Prepare for AI/ML Job Interviews
