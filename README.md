@@ -12,7 +12,6 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Dimensionality Reduction](https://scikit-learn.org/stable/modules/decomposition.html)  
 - [Clustering Algorithms](https://scikit-learn.org/stable/modules/clustering.html) 
 - [Bayesian Inference](https://www.statlect.com/fundamentals-of-statistics/Bayesian-inference#:~:text=Bayesian%20inference%20is%20a%20way,that%20could%20generate%20the%20data.)
-- [Ensemble Learning](https://machinelearningmastery.com/ensemble-learning-algorithms-with-python/) 
 - [Time Series Analysis](https://otexts.com/fpp3/) 
 - [Self-Supervised Learning](https://lilianweng.github.io/posts/2021-05-31-self-supervised-learning/)
 
