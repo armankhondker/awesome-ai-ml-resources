@@ -84,6 +84,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 
 8. Prepare for AI/ML Job Interviews
    - [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
+   - [ML Interviews MVP](https://github.com/khangich/machine-learning-interview) 
    - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
 ## 📚 Courses
