@@ -61,7 +61,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
    - [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
    - [Read Hundred-Page ML Book](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
 
-4. Build Practical Experience   
+4. Build Practical Experience & Projects
    - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - [Practical Deep Learning for Coders](https://course.fast.ai/)  
    - [Structured Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
@@ -79,7 +79,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
    - [Three levels of ML](https://ml-ops.org/content/three-levels-of-ml-software)
    - [Fullstackdeeplearning](https://fullstackdeeplearning.com/course/2022/)
    
-7. Read Interesting Research Papers
+7. Read Research Papers
    - [ArXiv for Research Papers](https://arxiv.org/)
 
 8. Prepare for AI/ML Job Interviews
