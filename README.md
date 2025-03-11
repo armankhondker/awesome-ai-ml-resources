@@ -4,6 +4,9 @@
 
 This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025.
 
+Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get a **Free AI/ML Roadmap** in your inbox.
+
+
 ## 📌 AI/ML Key Concepts
 - [Supervised Learning](https://medium.com/@kodeinkgp/supervised-learning-a-comprehensive-guide-7032b34d5097)
 - [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning?hl=en#what-is-unsupervised-learning)
