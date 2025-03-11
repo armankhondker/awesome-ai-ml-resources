@@ -1,4 +1,6 @@
-# Awesome AI/ML Resources 
+<p align="center">
+  <img src="diagrams/awesome-ai-ml-resources.png" width="350" height="200">
+</p>
 
 This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025.
 
