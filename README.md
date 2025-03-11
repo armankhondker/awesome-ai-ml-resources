@@ -7,6 +7,15 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get a **free AI/ML roadmap** in your inbox.
 
 
+## 📚 Quick Navigation
+
+- [Learning Paths](learning-paths.md) - Structured, time-bound learning paths
+- [Projects](projects.md) - Comprehensive project portfolio guide
+- [Progress Tracking](progress-tracking.md) - Templates and guidelines for tracking progress
+- [Books](books.md) - Recommended reading materials
+- [Interviews](interviews.md) - Interview preparation resources
+- [Newsletters](newsletters.md) - AI/ML newsletters to follow
+
 ## 📌 AI/ML Key Concepts
 - [Supervised Learning](https://medium.com/@kodeinkgp/supervised-learning-a-comprehensive-guide-7032b34d5097)
 - [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning?hl=en#what-is-unsupervised-learning)
@@ -102,7 +111,7 @@ Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get 
 - [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ&index=1)
 - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [Natural Language Processing with Deep Learning (Stanford - CS224n)](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&index=1)
-- [Fast.ai’s Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Fast.ai's Practical Deep Learning for Coders](https://course.fast.ai/)
 
 ## 🎓 Certifications
 - [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
@@ -186,3 +195,22 @@ Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get 
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
 - [Open AI Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
+## 🎯 How to Use This Repository
+
+This repository offers two complementary approaches to learning AI/ML:
+
+### 1. Free Exploration
+Browse our comprehensive collection of resources, tools, and materials at your own pace. Perfect for:
+- Self-directed learners
+- Those with specific learning goals
+- Experienced practitioners looking for references
+- Quick access to quality resources
+
+### 2. Structured Learning
+Follow our optional structured guides for a more organized approach:
+- [Learning Paths](learning-paths.md) - Suggested progression with time estimates
+- [Progress Tracking](progress-tracking.md) - Optional templates to monitor your journey
+- [Projects](projects.md) - Structured project suggestions with clear objectives
+
+Choose the approach that works best for you, or combine both! The structured guides are designed to complement, not replace, the comprehensive resource collection.
