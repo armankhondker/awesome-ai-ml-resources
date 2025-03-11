@@ -4,7 +4,7 @@
 
 This repository contains free resources and a roadmap to learn Machine Learning and Artificial Intelligence in 2025.
 
-Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get a **Free AI/ML Roadmap** in your inbox.
+Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get a **free AI/ML roadmap** in your inbox.
 
 
 ## 📌 AI/ML Key Concepts
