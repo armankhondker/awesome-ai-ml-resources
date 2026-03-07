@@ -33,6 +33,7 @@ Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get 
 - [Loss Functions](https://www.datacamp.com/tutorial/loss-function-in-machine-learning)
 - [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 - [Hyperparameter Tuning](https://www.geeksforgeeks.org/hyperparameter-tuning/)
+- [WFGY Problem Map (RAG Debugging Framework)](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
 
 ## 👨🏽‍💻 AI/ML Roles
 - [Machine Learning Engineer](https://www.coursera.org/articles/what-is-machine-learning-engineer)
