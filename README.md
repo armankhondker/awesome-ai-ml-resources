@@ -66,6 +66,7 @@ Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get 
    - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) 
    - [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
    - [Read Hundred-Page ML Book](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for branded short clips, launch visuals, and campaign-ready creative assets.
 
 4. Build Practical Experience & Projects
    - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
