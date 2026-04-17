@@ -144,6 +144,7 @@ Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get 
 - [Uber Engineering](https://eng.uber.com/category/articles/ai/)
 - [Netflix Blog](https://netflixtechblog.com/)
 - [Google AI](https://blog.google/technology/ai/)
+- [8bitconcepts](https://8bitconcepts.com/) — Independent research on enterprise AI adoption: agentic accountability, hallucination budgets, governance gaps, integration tax.
 
 ## AI/ML Problems
 ### Easy
@@ -176,6 +177,7 @@ Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get 
 
 ## 📩 Newsletters
 - [The AI Engineer](https://aimlengineer.io)
+- [8bitconcepts Research](https://8bitconcepts.com) — Weekly independent research on enterprise AI adoption (RSS: `8bitconcepts.com/feed.xml`)
 
 ## 📃 Must Read Papers
 - [Attention Is All You Need (Google)](https://arxiv.org/pdf/1706.03762)
