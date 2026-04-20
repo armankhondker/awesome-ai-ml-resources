@@ -126,6 +126,7 @@ Subscribe to the [AI Engineer Newsletter](https://www.aimlengineer.io/) and get 
 - [Perplexity](https://www.perplexity.ai/)
 - [CursorAI](https://www.cursor.com/)
 - [Whisper](https://github.com/openai/whisper) 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)
 
 ## AI/ML Research Blogs
 - [OpenAI Blog](https://openai.com/news/)
