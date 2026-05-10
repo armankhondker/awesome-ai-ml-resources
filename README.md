@@ -105,6 +105,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
 - [Stanford AI and Machine Learning Certificate](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
+- [Claude Certified Architect](https://claudecertifications.com/claude-certified-architect)
 
 ## 📕 Books
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
