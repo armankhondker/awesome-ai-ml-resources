@@ -67,6 +67,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 4. Build Practical Experience & Projects
    - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - [Practical Deep Learning for Coders](https://course.fast.ai/)  
+- [AIHumanLove Free AI Courses](https://aihumanlove.com/courses) — Free beginner-friendly AI courses covering tools, prompts, and practical applications. EN/ES/PT.
    - [Structured Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
    - [Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1331s) 
    
