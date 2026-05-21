@@ -76,6 +76,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
    - [Computer Vision](https://www.kaggle.com/learn/computer-vision)
    - [Deep Learning](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ&index=1)
    - [Transformers](https://huggingface.co/learn/nlp-course/chapter1/1)
+   - [Gemini By Example](https://geminibyexample.com)
 
 6. Learn about MLOps
    - [Intro to MLOps](https://ml-ops.org/)
