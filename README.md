@@ -100,6 +100,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [Natural Language Processing with Deep Learning (Stanford - CS224n)](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&index=1)
 - [Fast.ai’s Practical Deep Learning for Coders](https://course.fast.ai/)
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/artificial-intelligence) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## 🎓 Certifications
 - [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
