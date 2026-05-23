@@ -113,6 +113,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Deep Learning](https://www.deeplearningbook.org/)
+- [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/) - Free book teaching AI math with plain English explanations and Python code examples!
 
 ## 🛠️ Tools & Frameworks
 - [PyTorch](https://www.youtube.com/watch?v=V_xro1bcAuA)
