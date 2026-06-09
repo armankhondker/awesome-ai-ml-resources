@@ -123,6 +123,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Perplexity](https://www.perplexity.ai/)
 - [CursorAI](https://www.cursor.com/)
 - [Whisper](https://github.com/openai/whisper) 
+- [igly.ai](https://igly.ai/) - AI image editing for background removal, inpainting, upscaling, and generative fill
 
 ## AI/ML Research Blogs
 - [OpenAI Blog](https://openai.com/news/)
