@@ -123,6 +123,8 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Perplexity](https://www.perplexity.ai/)
 - [CursorAI](https://www.cursor.com/)
 - [Whisper](https://github.com/openai/whisper) 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 
 ## AI/ML Research Blogs
 - [OpenAI Blog](https://openai.com/news/)
