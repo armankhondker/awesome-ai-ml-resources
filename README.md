@@ -172,6 +172,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 ## 📩 Newsletters
+- [AI Nexus Daily](https://ainexusdaily.vercel.app) - Free, zero-paywall daily AI/ML news digest — research, product launches, and industry moves, no signup required.
 - [The AI Engineer](https://aimlengineer.io)
 
 ## 📃 Must Read Papers
