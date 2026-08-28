@@ -122,6 +122,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Keras](https://keras.io/getting_started/)
 - [Perplexity](https://www.perplexity.ai/)
 - [CursorAI](https://www.cursor.com/)
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source local MCP gateway CLI connecting 25 AI clients to 2,000+ models and APIs.
 - [Whisper](https://github.com/openai/whisper) 
 
 ## AI/ML Research Blogs
