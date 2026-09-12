@@ -115,6 +115,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Deep Learning](https://www.deeplearningbook.org/)
 
 ## 🛠️ Tools & Frameworks
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [PyTorch](https://www.youtube.com/watch?v=V_xro1bcAuA)
 - [TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 - [Scikit-Learn](https://scikit-learn.org/stable/getting_started.html)
