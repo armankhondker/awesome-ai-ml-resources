@@ -172,6 +172,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 ## 📩 Newsletters
+- [AI Nexus Daily](https://ainexusdaily.vercel.app) - Free, zero-paywall daily AI/ML news digest — research, product launches, and industry moves, no signup required.
 - [The AI Engineer](https://aimlengineer.io)
 
 ## 📃 Must Read Papers
@@ -183,3 +184,16 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
 - [Open AI Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
+<!-- QRIFY_DIR_START -->
+
+## Free QR Code Tools (no signup)
+
+- [QRify — Free QR Code Generator](https://qrify.dynv6.net/) - Browser-based QR generator with custom colours, logo overlay and SVG export. No signup, no watermark, everything runs locally in your browser.
+- [WiFi QR Code Generator](https://qrify.dynv6.net/wifi-qr-code) - Share WiFi credentials with a scannable code.
+- [vCard / Business Card QR Code](https://qrify.dynv6.net/vcard-qr-code) - Put contact details on a card or email signature.
+- [QR Code with Logo](https://qrify.dynv6.net/qr-code-with-logo) - Add a brand logo without breaking scan reliability.
+- [Restaurant Menu QR Code](https://qrify.dynv6.net/restaurant-menu-qr-code) - Contactless menus for cafes and restaurants.
+- [Free QR Code Generator Guide](https://usaimaker.github.io/free-qr-code-generator.html) - A practical how-to covering error correction, sizing, colour contrast and print.
+
+<!-- QRIFY_DIR_END -->
