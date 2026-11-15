@@ -171,6 +171,9 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 - [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
+## 🔌 MCP Servers & Data Endpoints
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Read-only MCP server covering small live music venues in all 50 US states and who books them ([nostairsplease.com](https://nostairsplease.com/)).
+
 ## 📩 Newsletters
 - [The AI Engineer](https://aimlengineer.io)
 
